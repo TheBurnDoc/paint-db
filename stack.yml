@@ -17,3 +17,10 @@ services:
     environment:
       ME_CONFIG_MONGODB_ADMINUSERNAME: root
       ME_CONFIG_MONGODB_ADMINPASSWORD: password
+
+  paint-db-server:
+    image: paint-db-server:v0.1.0
+    ports:
+      - 4000:4000
+    environment:
+      PAINT_DB_MONGO_URI: mongodb://root:password@mongo/hobby?authSource=admin
