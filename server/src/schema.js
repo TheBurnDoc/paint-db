@@ -4,6 +4,7 @@ var {
     GraphQLSchema,
     GraphQLString,
     GraphQLList,
+    GraphQLFloat,
     GraphQLInt,
   } = require('graphql');
   var {
@@ -48,7 +49,7 @@ var {
       },
       quantity: {
         description: "The quanity of the paint possesed",
-        type: new GraphQLNonNull(GraphQLInt),
+        type: new GraphQLNonNull(GraphQLFloat),
       },
     },
   });
@@ -62,12 +63,32 @@ var {
         type: new GraphQLList(paintType),
         description: "Paint root node",
         args: {
-          id: {
-            name: 'id',
-            type: GraphQLInt
+          brand: {
+            name: 'brand',
+            type: GraphQLString
+          },
+          line: {
+            name: 'line',
+            type: GraphQLString
+          },
+          tags: {
+            name: 'tags',
+            type: GraphQLList(GraphQLString)
+          },
+          colours: {
+            name: 'colours',
+            type: GraphQLList(GraphQLString)
           }
         },
-        resolve: (obj, { id }) => (id) ? [Paint.findById(id)] : Paint.find()
+        resolve: (obj, args) => {
+
+          // Tag query using $all operator
+          for (var field in ['tags', 'colours'])
+            if (args[field]) args[field] = { $all: args[field] }
+
+          // Run Mongoose query
+          return Paint.find(args);
+        }
       },
     },
   });

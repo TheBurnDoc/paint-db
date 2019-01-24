@@ -33,12 +33,4 @@ var PaintSchema = new mongoose.Schema({
   timestamps: true,
 });
 
-PaintSchema.statics.findByTag = function(email, ...args) {
-  return this.findOne({ email: email }, ...args);
-};
-
-PaintSchema.statics.findByColour = function(colour, ...args) {
-  return this.findOne({ colour: colour }, ...args);
-}
-
 module.exports = mongoose.model('Paint', PaintSchema);
