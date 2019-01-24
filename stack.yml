@@ -12,6 +12,7 @@ services:
 
   mongo-express:
     image: mongo-express
+    depends_on: ["mongo"]
     ports:
       - 8081:8081
     environment:
@@ -20,6 +21,7 @@ services:
 
   paint-db-server:
     image: paint-db-server:v0.1.0
+    depends_on: ["mongo"]
     ports:
       - 4000:4000
     environment:
