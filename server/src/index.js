@@ -10,10 +10,10 @@ var metaStr = `${meta.description} ${meta.version}`;
 console.log(`Starting ${metaStr}...`);
 
 // Database connection
+console.log(`Connecting to database URI \"${config.mongoUri}\"`);
 mongoose.Promise = global.Promise;
 mongoose.connect(config.mongoUri, { useMongoClient: true }, err => {
-  if (err) console.error(`Database connection error: ${err.message}`);
-  else console.log(`Connected to database at "${config.mongoUri}"`);
+  if (err) throw new Error(err.message); // Halt execution
 });
 
 // Express app object
