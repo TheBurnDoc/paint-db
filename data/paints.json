@@ -178,3 +178,15 @@
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e717"},"brand":"The Army Painter","line":"Quickshade Washes","paint":"Green Tone","tags":["wash"],"colours":["green"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e718"},"brand":"Vallejo","line":"Surface Primer","paint":"Grey","tags":["primer"],"colours":["grey"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e719"},"brand":"Vallejo","line":"Surface Primer","paint":"Black","tags":["primer"],"colours":["black"],"quantity":1}
+{"_id":{"$oid":"5c4c9ec0ab7f95000679d3f8"},"brand":"Citadel","line":"Dry","paint":"Sigmarite","tags":["metallic","dry"],"colours":["gold"],"quantity":1}
+{"_id":{"$oid":"5c4c9eefab7f95000679d3fa"},"brand":"Citadel","line":"Dry","paint":"Ryza Rust","tags":["dry"],"colours":["orange"],"quantity":1}
+{"_id":{"$oid":"5c4c9f4aab7f95000679d3fc"},"brand":"Citadel","line":"Glaze","paint":"Lamenters Yellow","tags":["gloss"],"colours":["yellow"],"quantity":1}
+{"_id":{"$oid":"5c4c9f9dab7f95000679d3fe"},"brand":"Citadel","line":"Edge","paint":"Lugganeth Orange","tags":["flourescent"],"colours":["orange"],"quantity":1}
+{"_id":{"$oid":"5c4c9fd1ab7f95000679d400"},"brand":"Citadel","line":"Dry","paint":"Terminatus Stone","tags":["dry"],"colours":["grey","bone"],"quantity":1}
+{"_id":{"$oid":"5c4c9ff5ab7f95000679d402"},"brand":"Citadel","line":"Edge","paint":"Gauss Blaster Green","tags":["flourescent"],"colours":["green"],"quantity":1}
+{"_id":{"$oid":"5c4ca01bab7f95000679d404"},"brand":"Citadel","line":"Layer","paint":"Genestealer Purple","tags":[],"colours":["purple"],"quantity":1}
+{"_id":{"$oid":"5c4ca04aab7f95000679d406"},"brand":"Citadel","line":"Edge","paint":"Krieg Khaki","tags":["flourescent"],"colours":["grey","green"],"quantity":1}
+{"_id":{"$oid":"5c4ca06cab7f95000679d408"},"brand":"Citadel","line":"Dry","paint":"Golden Griffon","tags":["metallic","dry"],"colours":["gold"],"quantity":1}
+{"_id":{"$oid":"5c4ca0afab7f95000679d40a"},"brand":"Citadel","line":"Base","paint":"Daemonnette Hide","tags":["opaque"],"colours":["purple"],"quantity":1}
+{"_id":{"$oid":"5c4ca0d6ab7f95000679d40c"},"brand":"Citadel","line":"Dry","paint":"Eldar Flesh","tags":["dry"],"colours":["flesh","bone"],"quantity":1}
+{"_id":{"$oid":"5c4ca0f2ab7f95000679d40e"},"brand":"Citadel","line":"Edge","paint":"Dechala Lilac","tags":["flourescent"],"colours":["purple"],"quantity":1}
