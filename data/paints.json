@@ -10,7 +10,7 @@
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e66f"},"brand":"Citadel","line":"Shade","paint":"Carroburg Crimson","tags":["wash"],"colours":["red","purple","blood"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e670"},"brand":"Citadel","line":"Shade","paint":"Drakenhof Nightshade","tags":["wash"],"colours":["blue"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e671"},"brand":"Citadel","line":"Shade","paint":"Seraphim Sepia","tags":["wash"],"colours":["brown"],"quantity":2}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e672"},"brand":"Citadel","line":"Layer","paint":"Skrag Brown","tags":[""],"colours":["brown"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e672"},"brand":"Citadel","line":"Layer","paint":"Skrag Brown","tags":[],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e673"},"brand":"Citadel","line":"Base","paint":"Leadbelcher","tags":["opaque","metallic"],"colours":["silver"],"quantity":2}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e674"},"brand":"Citadel","line":"Technical","paint":"Hexwraith Flame","tags":["effect"],"colours":["green"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e675"},"brand":"Citadel","line":"Technical","paint":"Nurgle's Rot","tags":["gloss","effect"],"colours":["green"],"quantity":1}
@@ -31,8 +31,8 @@
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e684"},"brand":"Citadel","line":"Base","paint":"Rhinox Hide","tags":["opaque"],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e685"},"brand":"Citadel","line":"Shade","paint":"Nuln Oil","tags":["wash"],"colours":["black"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e686"},"brand":"Citadel","line":"Layer","paint":"Stormhost Silver","tags":["metallic"],"colours":["silver"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e687"},"brand":"Citadel","line":"Layer","paint":"Wild Rider Red","tags":[""],"colours":["red"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e688"},"brand":"Citadel","line":"Layer","paint":"Doombull Brown","tags":[""],"colours":["brown"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e687"},"brand":"Citadel","line":"Layer","paint":"Wild Rider Red","tags":[],"colours":["red"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e688"},"brand":"Citadel","line":"Layer","paint":"Doombull Brown","tags":[],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e689"},"brand":"The Army Painter","line":"Quickshade","paint":"Flesh Wash","tags":["wash"],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e68a"},"brand":"Citadel","line":"Technical","paint":"Nihilakn Oxide","tags":["effect"],"colours":["blue"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e68b"},"brand":"Citadel","line":"Base","paint":"Macragge Blue","tags":["opaque"],"colours":["blue"],"quantity":2}
@@ -43,136 +43,136 @@
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e690"},"brand":"The Army Painter","line":"Quickshade Washes","paint":"Strong Tone","tags":["wash"],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e691"},"brand":"The Army Painter","line":"Quickshade Washes","paint":"Mid Brown","tags":["wash"],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e692"},"brand":"Vallejo","line":"Earth Texture","paint":"Black Lave","tags":["texture"],"colours":["black"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e693"},"brand":"Vallejo","line":"Game Color","paint":"Beasty Brown","tags":[""],"colours":["brown"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e693"},"brand":"Vallejo","line":"Game Color","paint":"Beasty Brown","tags":[],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e694"},"brand":"The Army Painter","line":"Quickshade Washes","paint":"Military Shader","tags":["wash"],"colours":["black"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e695"},"brand":"Vallejo","line":"Game Color","paint":"Jade Green","tags":[""],"colours":["green"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e696"},"brand":"Vallejo","line":"Game Color","paint":"Bronze Fleshtone","tags":[""],"colours":["flesh"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e695"},"brand":"Vallejo","line":"Game Color","paint":"Jade Green","tags":[],"colours":["green"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e696"},"brand":"Vallejo","line":"Game Color","paint":"Bronze Fleshtone","tags":[],"colours":["flesh"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e697"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy Red","tags":["opaque"],"colours":["red"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e698"},"brand":"Vallejo","line":"Game Ink","paint":"Black Green","tags":["ink"],"colours":["black","green"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e699"},"brand":"Vallejo","line":"Model Air","paint":"Orange Rust","tags":[""],"colours":["orange"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e699"},"brand":"Vallejo","line":"Model Air","paint":"Orange Rust","tags":["air"],"colours":["orange"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e69a"},"brand":"Vallejo","line":"Game Ink","paint":"Red","tags":["ink"],"colours":["red"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e69b"},"brand":"Vallejo","line":"Model Color","paint":"Dark Grey","tags":[""],"colours":["grey"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e69c"},"brand":"Vallejo","line":"Model Color","paint":"Medium Grey","tags":[""],"colours":["grey"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e69d"},"brand":"Vallejo","line":"Model Color","paint":"Marron Beige","tags":[""],"colours":["white","biege"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e69e"},"brand":"Vallejo","line":"Model Color","paint":"Offwhite","tags":[""],"colours":["white","biege"],"quantity":2}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e69b"},"brand":"Vallejo","line":"Model Color","paint":"Dark Grey","tags":[],"colours":["grey"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e69c"},"brand":"Vallejo","line":"Model Color","paint":"Medium Grey","tags":[],"colours":["grey"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e69d"},"brand":"Vallejo","line":"Model Color","paint":"Marron Beige","tags":[],"colours":["white","biege"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e69e"},"brand":"Vallejo","line":"Model Color","paint":"Offwhite","tags":[],"colours":["white","biege"],"quantity":2}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e69f"},"brand":"Vallejo","line":"Model Wash","paint":"Grey","tags":["wash"],"colours":["grey"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6a0"},"brand":"Vallejo","line":"Pigments","paint":"Burnt Umber","tags":["pigment"],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6a1"},"brand":"Vallejo","line":"Pigments","paint":"Dark Yello Ochre","tags":["pigment"],"colours":["yellow","sand"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6a2"},"brand":"Vallejo","line":"Pigments","paint":"Desert Dust","tags":["pigment"],"colours":["bone","sand"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6a3"},"brand":"Vallejo","line":"Pigments","paint":"Natural Iron Oxide","tags":["pigment"],"colours":["black"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6a4"},"brand":"Vallejo","line":"Weathering Effects","paint":"Thick Mud","tags":["texture"],"colours":["brown"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6a5"},"brand":"Vallejo","line":"Model Color","paint":"Burnt Umber","tags":[""],"colours":["brown"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6a5"},"brand":"Vallejo","line":"Model Color","paint":"Burnt Umber","tags":[],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6a6"},"brand":"Vallejo","line":"Game Color","paint":"Glorious Gold","tags":["metallic"],"colours":["gold"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6a7"},"brand":"Vallejo","line":"Metal Color","paint":"Steel","tags":["metallic","air"],"colours":["silver"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6a8"},"brand":"Vallejo","line":"Model Color","paint":"Ochre Brown","tags":[""],"colours":["brown"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6a8"},"brand":"Vallejo","line":"Model Color","paint":"Ochre Brown","tags":[],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6a9"},"brand":"Vallejo","line":"Metal Color","paint":"Silver","tags":["metallic","air"],"colours":["silver"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6aa"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy Warmgrey","tags":["opaque"],"colours":["grey","flesh"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6ab"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy Brown","tags":["opaque"],"colours":["brown"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6ac"},"brand":"Vallejo","line":"Model Color","paint":"Deck Tan","tags":[""],"colours":["white","biege"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6ac"},"brand":"Vallejo","line":"Model Color","paint":"Deck Tan","tags":[],"colours":["white","biege"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6ad"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy Ochre","tags":["opaque"],"colours":["flesh"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6ae"},"brand":"Vallejo","line":"Metal Color","paint":"Copper","tags":["metallic","air"],"colours":["copper"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6af"},"brand":"Vallejo","line":"Game Color","paint":"Dark Green","tags":[""],"colours":["green"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6af"},"brand":"Vallejo","line":"Game Color","paint":"Dark Green","tags":[],"colours":["green"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6b0"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy Orange","tags":["opaque"],"colours":["orange"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6b1"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy Charcoal","tags":["opaque"],"colours":["black"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6b2"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy Blue","tags":["opaque"],"colours":["blue"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6b3"},"brand":"Vallejo","line":"Metal Color","paint":"Gold","tags":["metallic","air"],"colours":["gold"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6b4"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy Grey","tags":["opaque"],"colours":["grey"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6b5"},"brand":"Citadel","line":"Dry","paint":"Longbeard Grey","tags":["dry"],"colours":["grey"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6b6"},"brand":"Citadel","line":"Layer","paint":"Dawnstone","tags":[""],"colours":["grey"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6b6"},"brand":"Citadel","line":"Layer","paint":"Dawnstone","tags":[],"colours":["grey"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6b7"},"brand":"Citadel","line":"Technical","paint":"Spiritstone Red","tags":["gloss","effect"],"colours":["red"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6b8"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy Goldbrown","tags":["opaque"],"colours":["brown","sand"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6b9"},"brand":"Citadel","line":"Layer","paint":"Administratum Grey","tags":[""],"colours":["grey"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6b9"},"brand":"Citadel","line":"Layer","paint":"Administratum Grey","tags":[],"colours":["grey"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6ba"},"brand":"Vallejo","line":"Game Color","paint":"Hammered Copper","tags":["metallic"],"colours":["copper"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6bb"},"brand":"Vallejo","line":"Game Color","paint":"Plague Brown","tags":[""],"colours":["flesh"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6bb"},"brand":"Vallejo","line":"Game Color","paint":"Plague Brown","tags":[],"colours":["flesh"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6bc"},"brand":"Citadel","line":"Game Color","paint":"Gunmetal","tags":["metallic"],"colours":["silver"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6bd"},"brand":"Vallejo","line":"Game Color","paint":"Hexed Lichen","tags":[""],"colours":["purple"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6be"},"brand":"Vallejo","line":"Game Color","paint":"Dead White","tags":[""],"colours":["white"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6bd"},"brand":"Vallejo","line":"Game Color","paint":"Hexed Lichen","tags":[],"colours":["purple"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6be"},"brand":"Vallejo","line":"Game Color","paint":"Dead White","tags":[],"colours":["white"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6bf"},"brand":"Citadel","line":"Dry","paint":"Tyrant Skull","tags":["dry"],"colours":["bone"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6c0"},"brand":"Vallejo","line":"Game Color","paint":"Polished Gold","tags":["metallic"],"colours":["gold"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6c1"},"brand":"Citadel","line":"Technical","paint":"Blood for the Blood God","tags":["gloss","effect"],"colours":["red","blood"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6c2"},"brand":"Citadel","line":"Technical","paint":"Soulstone Blue","tags":["gloss","effect"],"colours":["blue"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6c3"},"brand":"Citadel","line":"Base","paint":"Khorn Red","tags":["opaque"],"colours":["red"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6c4"},"brand":"Vallejo","line":"Game Ink","paint":"Black","tags":["ink"],"colours":["black"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6c5"},"brand":"Citadel","line":"Layer","paint":"Ahriman Blue","tags":[""],"colours":["blue"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6c6"},"brand":"Citadel","line":"Layer","paint":"Warpstone Glow","tags":[""],"colours":["green"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6c7"},"brand":"Vallejo","line":"Game Color","paint":"Sun Yellow","tags":[""],"colours":["yellow"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6c5"},"brand":"Citadel","line":"Layer","paint":"Ahriman Blue","tags":[],"colours":["blue"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6c6"},"brand":"Citadel","line":"Layer","paint":"Warpstone Glow","tags":[],"colours":["green"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6c7"},"brand":"Vallejo","line":"Game Color","paint":"Sun Yellow","tags":[],"colours":["yellow"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6c8"},"brand":"Vallejo","line":"Game Color","paint":"Silver","tags":["metallic"],"colours":["silver"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6c9"},"brand":"Citadel","line":"Layer","paint":"Fenrisian Grey","tags":[""],"colours":["grey"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6c9"},"brand":"Citadel","line":"Layer","paint":"Fenrisian Grey","tags":[],"colours":["grey"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6ca"},"brand":"Citadel","line":"Base","paint":"Rakarth Flesh","tags":["opaque"],"colours":["brown","flesh"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6cb"},"brand":"Citadel","line":"Technical","paint":"Typhus Corrosion","tags":["texture","effect"],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6cc"},"brand":"Citadel","line":"Base","paint":"Ceremite White","tags":["opaque"],"colours":["white"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6cd"},"brand":"Citadel","line":"Glaze","paint":"Waywatcher Green","tags":["gloss"],"colours":["green"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6ce"},"brand":"Vallejo","line":"Game Color","paint":"Magic Blue","tags":[""],"colours":["blue"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6cf"},"brand":"Citadel","line":"Layer","paint":"Evil Sunz Scarlet","tags":[""],"colours":["red","orange"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6ce"},"brand":"Vallejo","line":"Game Color","paint":"Magic Blue","tags":[],"colours":["blue"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6cf"},"brand":"Citadel","line":"Layer","paint":"Evil Sunz Scarlet","tags":[],"colours":["red","orange"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6d0"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy Violet","tags":["opaque"],"colours":["purple"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6d1"},"brand":"Citadel","line":"Layer","paint":"Straken Green","tags":[""],"colours":["green"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6d2"},"brand":"Vallejo","line":"Game Color","paint":"Ultramarine Blue","tags":[""],"colours":["blue"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6d3"},"brand":"Vallejo","line":"Game Color","paint":"Leather Brown","tags":[""],"colours":["brown"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6d1"},"brand":"Citadel","line":"Layer","paint":"Straken Green","tags":[],"colours":["green"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6d2"},"brand":"Vallejo","line":"Game Color","paint":"Ultramarine Blue","tags":[],"colours":["blue"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6d3"},"brand":"Vallejo","line":"Game Color","paint":"Leather Brown","tags":[],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6d4"},"brand":"Citadel","line":"Base","paint":"Warplock Bronze","tags":["opaque","metallic"],"colours":["bronze"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6d5"},"brand":"Vallejo","line":"Game Color","paint":"Dark Fleshtone","tags":[""],"colours":["red","flesh"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6d6"},"brand":"Vallejo","line":"Game Color","paint":"Stonewall Grey","tags":[""],"colours":["grey"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6d7"},"brand":"Citadel","line":"Layer","paint":"White Scar","tags":[""],"colours":["white"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6d5"},"brand":"Vallejo","line":"Game Color","paint":"Dark Fleshtone","tags":[],"colours":["red","flesh"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6d6"},"brand":"Vallejo","line":"Game Color","paint":"Stonewall Grey","tags":[],"colours":["grey"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6d7"},"brand":"Citadel","line":"Layer","paint":"White Scar","tags":[],"colours":["white"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6d8"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy Skintone","tags":["opaque"],"colours":["flesh"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6d9"},"brand":"Citadel","line":"Layer","paint":"Pink Horror","tags":[""],"colours":["pink"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6da"},"brand":"Vallejo","line":"Game Color","paint":"Gory Red","tags":[""],"colours":["red"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6d9"},"brand":"Citadel","line":"Layer","paint":"Pink Horror","tags":[],"colours":["pink"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6da"},"brand":"Vallejo","line":"Game Color","paint":"Gory Red","tags":[],"colours":["red"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6db"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy Siena","tags":["opaque"],"colours":["purple"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6dc"},"brand":"Vallejo","line":"Game Ink","paint":"Violet","tags":["ink"],"colours":["blue","purple"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6dd"},"brand":"Vallejo","line":"Game Ink","paint":"Skin Wash","tags":["ink"],"colours":["brown","flesh"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6de"},"brand":"Vallejo","line":"Model Color","paint":"Green Grey","tags":[""],"colours":["green","grey"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6df"},"brand":"Vallejo","line":"Panzer Aces","paint":"Shadows Flesh","tags":[""],"colours":["red","flesh"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6e0"},"brand":"Citadel","line":"Layer","paint":"Eshin Greu","tags":[""],"colours":["grey"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6de"},"brand":"Vallejo","line":"Model Color","paint":"Green Grey","tags":[],"colours":["green","grey"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6df"},"brand":"Vallejo","line":"Panzer Aces","paint":"Shadows Flesh","tags":[],"colours":["red","flesh"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6e0"},"brand":"Citadel","line":"Layer","paint":"Eshin Greu","tags":[],"colours":["grey"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6e1"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Haeavy Kakhi","tags":["opaque"],"colours":["green","grey","kakhi"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6e2"},"brand":"Vallejo","line":"Model Color","paint":"Iraqui Sand","tags":[""],"colours":["sand"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6e2"},"brand":"Vallejo","line":"Model Color","paint":"Iraqui Sand","tags":[],"colours":["sand"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6e3"},"brand":"Vallejo","line":"Game Ink","paint":"Yellow","tags":["ink"],"colours":["yellow"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6e4"},"brand":"Vallejo","line":"Model Color","paint":"Brown Violet","tags":[""],"colours":["brown","purple"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6e4"},"brand":"Vallejo","line":"Model Color","paint":"Brown Violet","tags":[],"colours":["brown","purple"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6e5"},"brand":"Citadel","line":"Base","paint":"Steel Legion Drab","tags":["opaque"],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6e6"},"brand":"Citadel","line":"Edge","paint":"Baharroth Blue","tags":["flourescent"],"colours":["blue"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6e7"},"brand":"Vallejo","line":"Panzer Aces","paint":"Flesh Base","tags":[""],"colours":["flesh"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6e7"},"brand":"Vallejo","line":"Panzer Aces","paint":"Flesh Base","tags":[],"colours":["flesh"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6e8"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy BlackGreen","tags":["opaque"],"colours":["green"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6e9"},"brand":"Citadel","line":"Base","paint":"Screamer Pink","tags":["opaque"],"colours":["pink"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6ea"},"brand":"Citadel","line":"Layer","paint":"Pallid Wych Flesh","tags":[""],"colours":["beige","flesh"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6ea"},"brand":"Citadel","line":"Layer","paint":"Pallid Wych Flesh","tags":[],"colours":["beige","flesh"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6eb"},"brand":"Citadel","line":"Base","paint":"Castallan Green","tags":["opaque"],"colours":["green"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6ec"},"brand":"Citadel","line":"Base","paint":"Bugman's Glow","tags":[""],"colours":["pink","flesh"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6ed"},"brand":"Vallejo","line":"Game Color","paint":"Charred Brown","tags":[""],"colours":["brown"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6ec"},"brand":"Citadel","line":"Base","paint":"Bugman's Glow","tags":[],"colours":["pink","flesh"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6ed"},"brand":"Vallejo","line":"Game Color","paint":"Charred Brown","tags":[],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6ee"},"brand":"Citadel","line":"Base","paint":"Balthasar Gold","tags":["opaque","metallic"],"colours":["gold"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6ef"},"brand":"Citadel","line":"Layer","paint":"Brass Scorpian","tags":["metallic"],"colours":["bronze"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6f0"},"brand":"Vallejo","line":"Game Color","paint":"Bonewhite","tags":[""],"colours":["bone"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6f1"},"brand":"Vallejo","line":"Model Color","paint":"Stone Grey","tags":[""],"colours":["grey"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6f2"},"brand":"Vallejo","line":"Model Color","paint":"Middle Stone","tags":[""],"colours":["grey"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6f3"},"brand":"Vallejo","line":"Game Color","paint":"Orange Fire","tags":[""],"colours":["orange"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6f4"},"brand":"Citadel","line":"Layer","paint":"Ulthuan Grey","tags":[""],"colours":["grey"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6f0"},"brand":"Vallejo","line":"Game Color","paint":"Bonewhite","tags":[],"colours":["bone"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6f1"},"brand":"Vallejo","line":"Model Color","paint":"Stone Grey","tags":[],"colours":["grey"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6f2"},"brand":"Vallejo","line":"Model Color","paint":"Middle Stone","tags":[],"colours":["grey"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6f3"},"brand":"Vallejo","line":"Game Color","paint":"Orange Fire","tags":[],"colours":["orange"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6f4"},"brand":"Citadel","line":"Layer","paint":"Ulthuan Grey","tags":[],"colours":["grey"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6f5"},"brand":"Citadel","line":"Layer","paint":"Ironbreaker","tags":["metallic"],"colours":["silver"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6f6"},"brand":"Citadel","line":"Layer","paint":"Calgar Blue","tags":[""],"colours":["blue"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6f6"},"brand":"Citadel","line":"Layer","paint":"Calgar Blue","tags":[],"colours":["blue"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6f7"},"brand":"Citadel","line":"Technical","paint":"Waystone Green","tags":["gloss","effect"],"colours":["green"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6f8"},"brand":"Vallejo","line":"Game Color","paint":"Dead Flesh","tags":[""],"colours":["grey","flesh"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6f8"},"brand":"Vallejo","line":"Game Color","paint":"Dead Flesh","tags":[],"colours":["grey","flesh"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6f9"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy Green","tags":["opaque"],"colours":["green"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6fa"},"brand":"Vallejo","line":"Model Color","paint":"Ivoery","tags":[""],"colours":["white","bone"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6fa"},"brand":"Vallejo","line":"Model Color","paint":"Ivoery","tags":[],"colours":["white","bone"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6fb"},"brand":"The Army Painter","line":"Quickshade Washes","paint":"Blue Tone","tags":["wash"],"colours":["blue"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6fc"},"brand":"Vallejo","line":"Model Color","paint":"Dark Flesh","tags":[""],"colours":["pink","flesh"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6fc"},"brand":"Vallejo","line":"Model Color","paint":"Dark Flesh","tags":[],"colours":["pink","flesh"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6fd"},"brand":"Vallejo","line":"Panzer Aces","paint":"Highlight Flesh","tags":["wash"],"colours":["flesh"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6fe"},"brand":"Vallejo","line":"Game Color","paint":"Royal Purple","tags":[""],"colours":["purple"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e6ff"},"brand":"Citadel","line":"Layer","paint":"Ushabti Bone","tags":[""],"colours":["bone"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6fe"},"brand":"Vallejo","line":"Game Color","paint":"Royal Purple","tags":[],"colours":["purple"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6ff"},"brand":"Citadel","line":"Layer","paint":"Ushabti Bone","tags":[],"colours":["bone"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e700"},"brand":"The Army Painter","line":"Quickshade Washes","paint":"Dark Tone","tags":["wash"],"colours":["brown"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e701"},"brand":"Vallejo","line":"Game Color","paint":"Night Blue","tags":[""],"colours":["blue"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e701"},"brand":"Vallejo","line":"Game Color","paint":"Night Blue","tags":[],"colours":["blue"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e702"},"brand":"Citadel","line":"Layer","paint":"Moot Green","tags":["flourescent"],"colours":["green"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e703"},"brand":"Citadel","line":"Base","paint":"Zandri Dust","tags":["opaque"],"colours":["sand","bone"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e704"},"brand":"Vallejo","line":"Game Ink","paint":"Green","tags":["ink"],"colours":["green"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e705"},"brand":"Vallejo","line":"Game Color","paint":"Bloody Red","tags":[""],"colours":["red"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e706"},"brand":"Vallejo","line":"Game Color","paint":"Goblin Green","tags":[""],"colours":["green"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e705"},"brand":"Vallejo","line":"Game Color","paint":"Bloody Red","tags":[],"colours":["red"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e706"},"brand":"Vallejo","line":"Game Color","paint":"Goblin Green","tags":[],"colours":["green"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e707"},"brand":"Citadel","line":"Base","paint":"Mechanicus Standard Grey","tags":["opaque"],"colours":["grey"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e708"},"brand":"Vallejo","line":"Game Color","paint":"Elf Skintone","tags":[""],"colours":["pink","flesh"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e708"},"brand":"Vallejo","line":"Game Color","paint":"Elf Skintone","tags":[],"colours":["pink","flesh"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e709"},"brand":"Citadel","line":"Base","paint":"Retributer Armour","tags":["opaque"],"colours":["bronze"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e70a"},"brand":"Vallejo","line":"Game Color","paint":"Moon Yellow","tags":[""],"colours":["yellow"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e70a"},"brand":"Vallejo","line":"Game Color","paint":"Moon Yellow","tags":[],"colours":["yellow"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e70b"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy Bluegrey","tags":["opaque"],"colours":["blue","grey"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e70c"},"brand":"Citadel","line":"Layer","paint":"Gehenna's Gold","tags":["metallic"],"colours":["gold"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e70d"},"brand":"Vallejo","line":"Game Color","paint":"Cold Grey","tags":[""],"colours":["grey"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e70e"},"brand":"Vallejo","line":"Model Color","paint":"Light Orange","tags":[""],"colours":["pink","orange","flesh"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e70d"},"brand":"Vallejo","line":"Game Color","paint":"Cold Grey","tags":[],"colours":["grey"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e70e"},"brand":"Vallejo","line":"Model Color","paint":"Light Orange","tags":[],"colours":["pink","orange","flesh"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e70f"},"brand":"Vallejo","line":"Model Color","paint":"Gunmetal Blue","tags":["metallic"],"colours":["blue"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e710"},"brand":"Vallejo","line":"Game Color","paint":"Black","tags":[""],"colours":["black"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e710"},"brand":"Vallejo","line":"Game Color","paint":"Black","tags":[],"colours":["black"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e711"},"brand":"Vallejo","line":"Game Ink","paint":"Blue","tags":["ink"],"colours":["blue"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e712"},"brand":"Vallejo","line":"Game Color","paint":"Tinny Tin","tags":["metallic"],"colours":["copper"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e713"},"brand":"Vallejo","line":"Model Color","paint":"Green Brown","tags":[""],"colours":["brown"],"quantity":1}
-{"_id":{"$oid":"5c4c9dd6fe629837ea69e714"},"brand":"Vallejo","line":"Model Color","paint":"Sand  Yellow","tags":[""],"colours":["sand","bone"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e713"},"brand":"Vallejo","line":"Model Color","paint":"Green Brown","tags":[],"colours":["brown"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e714"},"brand":"Vallejo","line":"Model Color","paint":"Sand  Yellow","tags":[],"colours":["sand","bone"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e715"},"brand":"Citadel","line":"Technical","paint":"Imperial Primer","tags":["primer"],"colours":["black"],"quantity":0.5}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e716"},"brand":"Vallejo","line":"Surface Primer","paint":"White","tags":["primer"],"colours":["white"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e717"},"brand":"The Army Painter","line":"Quickshade Washes","paint":"Green Tone","tags":["wash"],"colours":["green"],"quantity":1}
@@ -190,3 +190,11 @@
 {"_id":{"$oid":"5c4ca0afab7f95000679d40a"},"brand":"Citadel","line":"Base","paint":"Daemonnette Hide","tags":["opaque"],"colours":["purple"],"quantity":1}
 {"_id":{"$oid":"5c4ca0d6ab7f95000679d40c"},"brand":"Citadel","line":"Dry","paint":"Eldar Flesh","tags":["dry"],"colours":["flesh","bone"],"quantity":1}
 {"_id":{"$oid":"5c4ca0f2ab7f95000679d40e"},"brand":"Citadel","line":"Edge","paint":"Dechala Lilac","tags":["flourescent"],"colours":["purple"],"quantity":1}
+{"_id":{"$oid":"5c4ca212ab7f95000679d410"},"brand":"Vallejo","line":"Model Air","paint":"Red RLM23","tags":["air"],"colours":["red"],"quantity":1}
+{"_id":{"$oid":"5c4ca227ab7f95000679d412"},"brand":"Vallejo","line":"Model Air","paint":"Medium Yellow","tags":["air"],"colours":["yellow"],"quantity":1}
+{"_id":{"$oid":"5c4ca235ab7f95000679d414"},"brand":"Vallejo","line":"Model Air","paint":"Blue","tags":["air"],"colours":["blue"],"quantity":1}
+{"_id":{"$oid":"5c4ca24cab7f95000679d416"},"brand":"Vallejo","line":"Model Air","paint":"Silver RLM01","tags":["air","metallic"],"colours":["silver"],"quantity":1}
+{"_id":{"$oid":"5c4ca259ab7f95000679d418"},"brand":"Vallejo","line":"Model Air","paint":"White","tags":["air"],"colours":["white"],"quantity":1}
+{"_id":{"$oid":"5c4ca267ab7f95000679d41a"},"brand":"Vallejo","line":"Model Air","paint":"Black","tags":["air"],"colours":["black"],"quantity":1}
+{"_id":{"$oid":"5c4ca281ab7f95000679d41c"},"brand":"Vallejo","line":"Model Air","paint":"Olive Green","tags":["air"],"colours":["green"],"quantity":1}
+{"_id":{"$oid":"5c4ca298ab7f95000679d41e"},"brand":"Vallejo","line":"Model Air","paint":"Gold","tags":["air","metallic"],"colours":["gold"],"quantity":1}
