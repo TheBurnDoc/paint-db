@@ -1,7 +1,5 @@
 var mongoose = require('mongoose');
 
-const config = require('../config');
-
 var PaintSchema = new mongoose.Schema({
   brand: {
     type: String,
