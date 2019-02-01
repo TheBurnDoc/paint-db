@@ -64,6 +64,7 @@
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6a5"},"brand":"Vallejo","line":"Model Color","paint":"Burnt Umber","tags":[],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6a6"},"brand":"Vallejo","line":"Game Color","paint":"Glorious Gold","tags":["metallic"],"colours":["gold"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6a7"},"brand":"Vallejo","line":"Metal Color","paint":"Steel","tags":["metallic","air"],"colours":["silver"],"quantity":1}
+{"_id":{"$oid":"5c4c9dd6fe629837ea69e6a7"},"brand":"Vallejo","line":"Metal Color","paint":"Pale Burnt Metal","tags":["metallic","air"],"colours":["silver"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6a8"},"brand":"Vallejo","line":"Model Color","paint":"Ochre Brown","tags":[],"colours":["brown"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6a9"},"brand":"Vallejo","line":"Metal Color","paint":"Silver","tags":["metallic","air"],"colours":["silver"],"quantity":1}
 {"_id":{"$oid":"5c4c9dd6fe629837ea69e6aa"},"brand":"Vallejo","line":"Game Extra Opaque","paint":"Heavy Warmgrey","tags":["opaque"],"colours":["grey","flesh"],"quantity":1}
